@@ -1,0 +1,276 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"bac",
+				"background-image"
+			],
+			[
+				"fo",
+				"font-family"
+			],
+			[
+				"ma",
+				"margin-left"
+			],
+			[
+				"mar",
+				"margin-left"
+			],
+			[
+				"bor",
+				"border-style"
+			],
+			[
+				"bo",
+				"border-color"
+			],
+			[
+				"pa",
+				"padding-right"
+			],
+			[
+				"p",
+				"padding-left"
+			],
+			[
+				"paddin",
+				"padding-top"
+			],
+			[
+				"h",
+				"height"
+			],
+			[
+				"an",
+				"anumber"
+			],
+			[
+				"mysql",
+				"mysql_query"
+			],
+			[
+				"di",
+				"div\tTag"
+			],
+			[
+				"pas",
+				"password"
+			],
+			[
+				"wid",
+				"width"
+			],
+			[
+				"op",
+				"option\tTag"
+			],
+			[
+				"se",
+				"select\tTag"
+			],
+			[
+				"in",
+				"input\tTag"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/ADMIN/Documents/welcomecss.html",
+		"/C/wamp/www/accident notification/add_hospital.php",
+		"/C/wamp/www/accident notification/add_police.php",
+		"/C/wamp/www/accident notification/Service_log/locate.php",
+		"/C/wamp/www/accident notification/add_user.php",
+		"/C/wamp/www/accident notification/add_ambulance.php",
+		"/C/wamp/www/accident notification/view_vehicle.php",
+		"/C/wamp/www/accident notification/admin_menu.php",
+		"/C/wamp/www/accident notification/locate.php",
+		"/C/wamp/www/accident notification/index.php",
+		"/C/wamp/www/accident notification/view_policestation.php",
+		"/C/wamp/www/accident notification/view_police.php",
+		"/C/wamp/www/accident notification/view_hospital.php",
+		"/C/wamp/www/accident notification/view_ambulance.php",
+		"/C/wamp/www/accident notification/login.php",
+		"/C/wamp/www/accident notification/acclocator.php",
+		"/C/wamp/www/accident notification/Service_log/index.php",
+		"/C/wamp/www/accident notification/view_user.php",
+		"/C/wamp/www/accident notification/Service_log/login.php",
+		"/C/wamp/www/sufee-admin-dashboard-master/view_hospital.php",
+		"/C/wamp/www/sufee-admin-dashboard-master/view_ambulance.php",
+		"/C/wamp/www/sufee-admin-dashboard-master/view_police.php",
+		"/C/wamp/www/sufee-admin-dashboard-master/add_ambulance.php",
+		"/C/wamp/www/sufee-admin-dashboard-master/add_hospital.php",
+		"/C/wamp/www/sufee-admin-dashboard-master/index.php",
+		"/C/wamp/www/sufee-admin-dashboard-master/add_police.php",
+		"/C/wamp/www/sufee-admin-dashboard-master/connection.php",
+		"/C/wamp/www/sufee-admin-dashboard-master/forms-basic.html",
+		"/C/wamp/www/first project/reg.php",
+		"/C/wamp/www/sufee-admin-dashboard-master/admin_menu.php",
+		"/G/E-GOVERNENCE/connection.php",
+		"/G/ktm showroom srinivas/ktmmainproject1/connection.php",
+		"/C/wamp/www/first project/login.php",
+		"/C/wamp/www/first project/box.php",
+		"/C/wamp/www/first project/table.php",
+		"/C/wamp/www/sufee-admin-dashboard-master/ui-badges.html"
+	],
+	"find":
+	{
+		"height": 23.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"log",
+			"accident_notification",
+			"left-panel",
+			"PASSWORD"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "css.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 204.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
